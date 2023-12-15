@@ -112,15 +112,15 @@
         "collectionId": "JYYIXneyeG",
         "name": "Speaker Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 4,
-        "stagedVersionCount": 4,
+        "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [
           "819c5f1d58e0432fbd5aa523ba8aebce"
         ],
         "createdAt": "2023-05-25T08:12:41.126Z",
-        "stagedAt": "2023-08-02T09:21:31.13Z",
+        "stagedAt": "2023-08-02T09:21:39.373Z",
         "publishedAt": "2023-08-02T09:21:39.373Z",
         "modifiedAt": "2023-08-02T09:21:39.373Z",
         "modifiedBy": {

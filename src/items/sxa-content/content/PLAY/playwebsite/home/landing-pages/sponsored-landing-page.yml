@@ -108,6 +108,54 @@ Languages:
                 <ruleset
                   s:pet="true">
                   <rule
+                    uid="{D4D6F9F5-0DA5-4DE1-87A9-904A14CB3BC9}"
+                    s:name="608c9854dc064688acb42912b10a8744">
+                    <conditions>
+                      <condition
+                        uid="DE12FAB6BCEE481D805D60A07ECA8E58"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="608c9854dc064688acb42912b10a8744" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{81F43D38-D7F2-4285-9516-6F316896A6F3}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="1d2d6023-9517-4627-adaf-f6abb520c601" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{AE9073B1-B572-41B3-BB2E-9D29DD68E4B1}"
+                    s:name="7bf523a1e41f459289910fa71f0d5832">
+                    <conditions>
+                      <condition
+                        uid="60A661C04EA2401F803F88A1057BF226"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="7bf523a1e41f459289910fa71f0d5832" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{13050B41-AC19-4182-973F-79344A094F2D}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="5e173117-a62e-44fa-8795-62260a96aac7" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{D5054361-379B-4054-A75A-560BFB6D9A79}"
+                    s:name="dd8fb4b6f20a4c5882d86ae374b420e8">
+                    <conditions>
+                      <condition
+                        uid="30361E8B1EBA4C939C160BDEC2186687"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="dd8fb4b6f20a4c5882d86ae374b420e8" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{D7F2E5D3-4256-4584-AB77-1AF089870149}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="d78c313a-67e0-465d-a33d-e6901c4451ab" />
+                    </actions>
+                  </rule>
+                  <rule
                     uid="{F8E4B06F-785D-4BFA-A13C-8E25B8659612}"
                     s:name="32f2b73de39242bdb51ce022b7022779">
                     <conditions>
@@ -176,6 +224,54 @@ Languages:
               <rls>
                 <ruleset
                   s:pet="true">
+                  <rule
+                    uid="{FF25C3F0-F23E-420E-B177-DF454B2F267C}"
+                    s:name="608c9854dc064688acb42912b10a8744">
+                    <conditions>
+                      <condition
+                        uid="BE2E6AC12397453F9CB547A0A4DDDE61"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="608c9854dc064688acb42912b10a8744" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{2632B5E9-AE0F-4378-ADF8-15F3048519EA}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="0bb933e8-63cf-4491-bde1-d4b4747cd24a" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{BC90E28A-780D-4DCA-B913-488D2C3C2A06}"
+                    s:name="7bf523a1e41f459289910fa71f0d5832">
+                    <conditions>
+                      <condition
+                        uid="7306755EE1C34EF0922EB97EFC1BD72B"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="7bf523a1e41f459289910fa71f0d5832" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{0A7EC2FA-AB95-4A25-8F02-5434258E7916}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="f01ce457-e0c4-4a41-bf99-7604b29f510d" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{6D0DDCC9-45F3-4E70-9380-81590E79C785}"
+                    s:name="dd8fb4b6f20a4c5882d86ae374b420e8">
+                    <conditions>
+                      <condition
+                        uid="BD641FA36C744FAABAD6ABCE48532A35"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="dd8fb4b6f20a4c5882d86ae374b420e8" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{43A5E129-2E8D-475C-9CEA-86E993ED6E3D}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="745acfc6-d131-4b93-9db5-fed61914b04f" />
+                    </actions>
+                  </rule>
                   <rule
                     uid="{F228E774-8E09-4CF2-8F6F-446D2E5C36F1}"
                     s:name="32f2b73de39242bdb51ce022b7022779">
@@ -246,7 +342,7 @@ Languages:
       Value: Sponsored Landing Page
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "413c63e8-6e1e-484b-9b20-ea8f7e542e90"
+      Value: "a69a12c4-3829-4bd2-a0de-7b5b249e166b"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

@@ -6231,7 +6231,7 @@
         }
       }
     ],
-    "formatVersion": 28,
+    "formatVersion": 27,
     "status": "saved",
     "revision": 194,
     "createdAt": "2023-04-19T11:06:04.912Z",
@@ -9781,7 +9781,7 @@
         }
       }
     ],
-    "formatVersion": 28,
+    "formatVersion": 27,
     "status": "staged",
     "revision": 0,
     "createdAt": "2024-01-17T13:38:02.478Z",
@@ -13331,7 +13331,7 @@
         }
       }
     ],
-    "formatVersion": 28,
+    "formatVersion": 27,
     "status": "published",
     "revision": 0,
     "createdAt": "2024-01-17T13:38:02.383Z",
